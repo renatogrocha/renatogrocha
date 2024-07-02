@@ -13,5 +13,4 @@ And some of the projects also are going to include...
 😅
 
 
-Thanks for visiting and feel free to contact me if you have a volunteer opportunity 😁
-I would be glad to make part of it for knowledge exchange 🤓🤝!!
+Thanks for visiting and feel free to contact me 😁
