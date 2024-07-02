@@ -1,6 +1,6 @@
 ### Welcome!
-Hi! I'm a programming student looking for my first professional experience.
-Bringing here some of my projects while studing
+Hi! I'm a programmer looking for my first professional experience.
+Bringing here some of my projects while studying Data Engineering and Software Engineering.
 
 > <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Logo JavaScript" width="40" height="40"/> JavaScript<br>
 > <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Logo Python" width="40" height="40"/> Python<br>
